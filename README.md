@@ -10,4 +10,4 @@ This iterative development approach used is very important when working on compl
 
 All of this aligns perfectly with my pursuit of a deeper understanding in becoming a better project manager. Courses like this one make me understand the difficulties engineers face and let me make informed decisions. The example I have shown here is where I can contribute to discussions on visualization tools, because of this knowledge.
 
-It effectively highlights all the valuable skills and strategies learned from this project in the CS-330 class. This analysis expresses that it is clearly understood how the course has helped me in my development as a project manager.
+It effectively highlights all the valuable skills and strategies learned from this project in the CS-330 class. 
