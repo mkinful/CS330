@@ -11,3 +11,7 @@ This iterative development approach used is very important when working on compl
 All of this aligns perfectly with my pursuit of a deeper understanding in becoming a better project manager. Courses like this one make me understand the difficulties engineers face and let me make informed decisions. The example I have shown here is where I can contribute to discussions on visualization tools, because of this knowledge.
 
 It effectively highlights all the valuable skills and strategies learned from this project in the CS-330 class. 
+
+My approach to software design emphasizes constant iteration and adaptation. I start with initial ideas, like algorithms or requirements, and then test them rigorously to ensure they align with the project's goals. This allows me to continuously adjust my design, keeping it on track. Additionally, I prioritize balancing realism with project needs, effectively meeting specific requirements while maintaining the desired level of detail.
+
+This project on 3D graphics significantly enhanced my development skills. I transitioned from using pre-built OpenGL applications to directly coding within the library itself. This demonstrates a deeper understanding of how OpenGL works  under the hood. Moreover, the project solidified my preference for iterative development with milestones. This approach allows for focused development, easier debugging, and ensures each component functions properly before integration. These valuable learnings will undoubtedly benefit me in future endeavors.
